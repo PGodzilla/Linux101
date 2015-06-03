@@ -141,7 +141,7 @@ And what it will do is start all the tests, the Grunt watching.
 36
 00:03:43,870 --> 00:03:52,140
 And from that point on, you can demo the app  on your local host.
-
+从这时候起，你就可以再本地主机上展示该app了。
 37
 00:03:52,140 --> 00:03:56,130
 It's a MongoDB database, so the whole app  is written in JavaScript.
